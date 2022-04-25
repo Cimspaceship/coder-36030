@@ -519,6 +519,17 @@ td {
 input {
     margin: 5px;
 }
+
+
+/*animaciones/transiciones*/
+nav ul li {
+transition: all .3s ease-in-out;
+}
+
+nav ul li:hover {
+    border-bottom: 1px solid white;
+}
+
 }
 
 
