@@ -523,7 +523,7 @@ input {
 
 /*animaciones/transiciones*/
 nav ul li {
-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 nav ul li:hover {
@@ -535,11 +535,11 @@ nav ul li:hover {
 }
 
 .home-image div:hover {
-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .micro-menu ul li {
-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 .micro-menu ul li:hover {
@@ -565,9 +565,6 @@ footer div img:hover {
 @keyframes giro {
     0% {rotate: 180deg;}
 }
-
-
-
 }
 
 
