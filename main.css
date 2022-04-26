@@ -530,6 +530,17 @@ nav ul li:hover {
     border-bottom: 1px solid white;
 }
 
+.home-image div {
+    transition: all .3s ease-in-out;
+}
+
+.home-image div:hover {
+transform: scale(1.1);
+}
+
+
+
+
 }
 
 
