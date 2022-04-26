@@ -546,6 +546,25 @@ transition: all .3s ease-in-out;
     border-bottom: 1px solid white;
 }
 
+footer div img {
+    transition: all .2s ease-in-out;
+}
+
+footer div img:hover {
+    transform: scale(1.05);
+}
+
+#logo-home {
+    animation-name: giro;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-duration: 4s;
+    animation-delay: 3s;
+}
+
+@keyframes giro {
+    0% {rotate: 180deg;}
+}
 
 
 
