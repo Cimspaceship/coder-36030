@@ -1,2 +1,2 @@
 # coder-36030
-Repositorio para curso de desarrollo web
+Ejercicio de subir repositorio para curso de desarrollo web 
